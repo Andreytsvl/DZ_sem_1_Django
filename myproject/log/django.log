@@ -1,0 +1,13 @@
+INFO 2024-04-22 15:16:15,463 autoreload 7388 11116 Watching for file changes with StatReloader
+INFO 2024-04-22 15:17:36,839 views 7388 4088 Посетитель зашёл на главную страницу: AnonymousUser
+INFO 2024-04-22 15:17:36,843 basehttp 7388 4088 "GET / HTTP/1.1" 200 186
+WARNING 2024-04-22 15:17:43,811 log 7388 3944 Not Found: /favicon.ico
+WARNING 2024-04-22 15:17:43,815 basehttp 7388 3944 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-04-22 15:17:56,635 views 7388 252 Посетитель посетил страницу 'О себе': AnonymousUser
+INFO 2024-04-22 15:17:56,639 basehttp 7388 252 "GET /about/ HTTP/1.1" 200 132
+INFO 2024-04-22 15:25:19,336 views 7388 4908 Посетитель зашёл на главную страницу: AnonymousUser
+INFO 2024-04-22 15:25:19,339 basehttp 7388 4908 "GET / HTTP/1.1" 200 186
+WARNING 2024-04-22 15:25:24,433 log 7388 10304 Not Found: /favicon.ico
+WARNING 2024-04-22 15:25:24,436 basehttp 7388 10304 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-04-22 15:26:30,981 views 7388 10716 Посетитель посетил страницу 'О себе': AnonymousUser
+INFO 2024-04-22 15:26:30,985 basehttp 7388 10716 "GET /about/ HTTP/1.1" 200 132
